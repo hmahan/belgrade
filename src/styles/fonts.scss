@@ -1,0 +1,19 @@
+@font-face {
+  	font-family: 'Scriptina';
+  	src: url("../fonts/scriptina.woff2") format("woff2");
+}
+
+@font-face {
+  	font-family: 'Savoy';
+  	src: url("../fonts/savoy.woff2") format("woff2");
+}
+
+@font-face {
+  	font-family: 'Avenir';
+  	src: url("../fonts/avenir.woff") format("woff");
+}
+
+$font-logo: 'Scriptina', cursive;
+$font-text: 'Savoy', 'Georgia', 'Times New Roman', serif;
+$font-section-header: 'Avenir', 'Helvetica', verdana, sans-serif;
+$font-accent-text: 'Georgia', 'Times New Roman', serif;
