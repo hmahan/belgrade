@@ -19,6 +19,10 @@ module.exports = {
                     loader: "babel-loader"
                 }
             },
+            { 
+                test: /\.json$/, 
+                loader: 'json-loader' 
+            },
             {
                 test: /\.html$/,
                 use: [

@@ -1,0 +1,36 @@
+{
+    "work": [
+        {
+            "name": "doers",
+            "title": "#InDoersWeTrust"
+        },
+        {
+            "name": "xprize",
+            "title": "XPrize"
+        },
+        {
+            "name": "academy",
+            "title": "Fiverr Academy"
+        },
+        {
+            "name": "workmyway",
+            "title": "Work My Way"
+        },
+        {
+            "name": "california",
+            "title": "Visit California"
+        },
+        {
+            "name": "tours",
+            "title": "Tours and Activities"
+        },
+        {
+            "name": "grave",
+            "title": "Greening the Grave"
+        },
+        {
+            "name": "coming-soon",
+            "title": "Contact me for other recent work examples"
+        }
+    ]
+}
