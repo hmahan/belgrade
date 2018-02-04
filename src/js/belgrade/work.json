@@ -2,31 +2,57 @@
     "work": [
         {
             "name": "doers",
-            "title": "#InDoersWeTrust"
+            "title": "#InDoersWeTrust",
+            "type": "website",
+            "links": ["http://www.indoerswetrust.com"],
+            "tech": "Rails . SASS . JS . CSS3 Animations . Custom Forms . Handlebars . Responsive design",
+            "description": "#InDoersWeTrust was a landing page and a marketing campaign to coincide with the launch of new branding at Fiverr. The original page allowed users to enter in ways in which they were going to be doers this year and get information on community events."
         },
         {
             "name": "xprize",
-            "title": "XPrize"
+            "title": "XPrize",
+            "type": "website",
+            "links": ["https://www.fiverr.com/xprize"],
+            "tech": "JS . HTML5 Video . CSS3 Animations",
+            "description": "The Xprize landing page is a partnership between Xprize and Fiverr as a compliment to a physical marketing campaign. This page was designed and developed in a close partnership with the task force designer to push eachother to innovate amazing ideas while still being on brand. The showcase hover was created with CSS3 Animations."
         },
         {
             "name": "academy",
-            "title": "Fiverr Academy"
+            "title": "Fiverr Academy",
+            "type": "website",
+            "links": ["https://www.fiverr.com/academy"],
+            "tech": "Rails . Handlebars . Wordpress Theme",
+            "description": "Fiverr Academy is the place where buyers and sellers get help to successfully navigate Fiverr. The site is using a Wordpress site for ease on entry for the content team and then bringing the content in via JSON to the Rails-based Fiverr codebase."
         },
         {
             "name": "workmyway",
-            "title": "Work My Way"
+            "title": "Work My Way",
+            "type": "website",
+            "links": ["https://www.fiverr.com/workmyway"],
+            "tech": "Instagram API . Google Forms API . JS . Rails",
+            "description": "#Workmyway was a marketing campaign celebrating the freelancer lifestyle. The page featured an entry form for users to add their Instagram picture that represents that lifestyle. The Fiverr marketing team then curated a list of decided Instagram images and was pulled in to fill the slider at the bottom of the page."
         },
         {
             "name": "california",
-            "title": "Visit California"
+            "title": "Visit California",
+            "type": "website",
+            "links": ["http://www.lonelyplanet.com/californiadreams"],
+            "tech": "HAML . SASS . JS . CSS3 Animations . Responsive design",
+            "description": "Visit California is a landing page showcasing original content to get users exploring California. The fully responsive page features an image and HTML5 video layered header and a custom CSS3 animation slider near the bottom of the page."
         },
         {
             "name": "tours",
-            "title": "Tours and Activities"
+            "title": "Tours and Activities",
+            "type": "website",
+            "links": ["http://www.lonelyplanet.com/adventure-tours", "http://www.lonelyplanet.com/sightseeing-tours"],
+            "tech": "HAML . SASS . JS . Responsive design",
+            "description": "My first two projects at Lonely Planet was giving both Adventure Tours and Sightseeing Tours a much needed update. I worked with design to create responsive views that really weren't anywhere to be seen on the site before these two were done. Since these two pages have been finished, bookings have seen an increase."
         },
         {
             "name": "grave",
-            "title": "Greening the Grave"
+            "title": "Greening the Grave",
+            "type": "article",
+            "headline": "Greening the Grave: The new American Funeral"
         },
         {
             "name": "coming-soon",
