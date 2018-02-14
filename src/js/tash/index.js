@@ -42,7 +42,7 @@ class Tash extends React.Component {
             {showPopup, popupContent} = this.state;
 
         return (
-            <section className="portfolio">
+            <section className="portfolio" id="portfolio">
                 <div className="row">
                     <h3>Selected Works</h3>
                     {work.map((tile, key) =>

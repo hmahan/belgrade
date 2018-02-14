@@ -1,7 +1,7 @@
 import React from 'react';
 
 const StariGrad = () => (
-    <footer>
+    <footer id="contact">
         <h3>Contact</h3>
         <h2>Hailey M Mahan</h2>
         <a href="mailto:hailey.mahan@gmail.com" className="contact-email">hailey.mahan@gmail.com</a>

@@ -33,7 +33,9 @@
   },
   "dependencies": {
     "normalize.css": "^7.0.0",
+    "react-reveal": "^1.0.2",
     "react-simple-modal": "^1.1.5",
+    "smoothscroll": "^0.4.0",
     "whatwg-fetch": "^2.0.3"
   }
 }
